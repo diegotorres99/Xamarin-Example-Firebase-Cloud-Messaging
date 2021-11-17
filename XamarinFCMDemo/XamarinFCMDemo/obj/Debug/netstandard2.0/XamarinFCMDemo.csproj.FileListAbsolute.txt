@@ -1,0 +1,14 @@
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\bin\Debug\netstandard2.0\XamarinFCMDemo.deps.json
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\bin\Debug\netstandard2.0\XamarinFCMDemo.dll
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\bin\Debug\netstandard2.0\ref\XamarinFCMDemo.dll
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\bin\Debug\netstandard2.0\XamarinFCMDemo.pdb
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\obj\Debug\netstandard2.0\XamarinFCMDemo.csprojAssemblyReference.cache
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\obj\Debug\netstandard2.0\XamarinFCMDemo.AssemblyInfoInputs.cache
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\obj\Debug\netstandard2.0\XamarinFCMDemo.AssemblyInfo.cs
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\obj\Debug\netstandard2.0\XamarinFCMDemo.csproj.CoreCompileInputs.cache
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\obj\Debug\netstandard2.0\XamarinFCMDemo.dll
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\obj\Debug\netstandard2.0\ref\XamarinFCMDemo.dll
+D:\Xamarin WorkSpace\XamarinFCMDemo\XamarinFCMDemo\XamarinFCMDemo\obj\Debug\netstandard2.0\XamarinFCMDemo.pdb

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946691009786",
+    "project_id": "xamarinfcmdemo-5f5f5",
+    "storage_bucket": "xamarinfcmdemo-5f5f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946691009786:android:3632bd2caa53bb8677ed43",
+        "android_client_info": {
+          "package_name": "com.demo.xamarin.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946691009786-kb3f6r6en49q55l1qcure3pf0frj1u58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPH4E3ADZ-VBgJJzCWV61IfNXaugCzN5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946691009786-kb3f6r6en49q55l1qcure3pf0frj1u58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
